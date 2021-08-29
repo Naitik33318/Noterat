@@ -1,0 +1,10 @@
+C:\Users\sandeep\source\repos\Noterat\Noterat\bin\Debug\Noterat.exe.config
+C:\Users\sandeep\source\repos\Noterat\Noterat\bin\Debug\Noterat.exe
+C:\Users\sandeep\source\repos\Noterat\Noterat\bin\Debug\Noterat.pdb
+C:\Users\sandeep\source\repos\Noterat\Noterat\obj\Debug\Noterat.csproj.AssemblyReference.cache
+C:\Users\sandeep\source\repos\Noterat\Noterat\obj\Debug\Noterat.Properties.Resources.resources
+C:\Users\sandeep\source\repos\Noterat\Noterat\obj\Debug\Noterat.csproj.GenerateResource.cache
+C:\Users\sandeep\source\repos\Noterat\Noterat\obj\Debug\Noterat.csproj.CoreCompileInputs.cache
+C:\Users\sandeep\source\repos\Noterat\Noterat\obj\Debug\Noterat.exe
+C:\Users\sandeep\source\repos\Noterat\Noterat\obj\Debug\Noterat.pdb
+C:\Users\sandeep\source\repos\Noterat\Noterat\obj\Debug\Noterat.Untiteled.resources
